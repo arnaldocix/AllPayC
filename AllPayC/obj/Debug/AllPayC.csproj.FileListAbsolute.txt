@@ -1,0 +1,10 @@
+C:\Users\arnal\source\repos\AllPayC\AllPayC\bin\Debug\AllPayC.exe.config
+C:\Users\arnal\source\repos\AllPayC\AllPayC\bin\Debug\AllPayC.exe
+C:\Users\arnal\source\repos\AllPayC\AllPayC\bin\Debug\AllPayC.pdb
+C:\Users\arnal\source\repos\AllPayC\AllPayC\obj\Debug\AllPayC.csprojAssemblyReference.cache
+C:\Users\arnal\source\repos\AllPayC\AllPayC\obj\Debug\AllPayC.Properties.Resources.resources
+C:\Users\arnal\source\repos\AllPayC\AllPayC\obj\Debug\AllPayC.csproj.GenerateResource.cache
+C:\Users\arnal\source\repos\AllPayC\AllPayC\obj\Debug\AllPayC.csproj.CoreCompileInputs.cache
+C:\Users\arnal\source\repos\AllPayC\AllPayC\obj\Debug\AllPayC.exe
+C:\Users\arnal\source\repos\AllPayC\AllPayC\obj\Debug\AllPayC.pdb
+C:\Users\arnal\source\repos\AllPayC\AllPayC\obj\Debug\AllPayC.Form1.resources
